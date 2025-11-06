@@ -1,0 +1,1 @@
+Una aplicación Android construida con Jetpack Compose. Utiliza Scaffold como estructura base para una interfaz edge-to-edge, implementando un componente Surface con color personalizado (cyan) que contiene un mensaje de saludo. El proyecto muestra el uso de modificadores para manejar padding y el sistema de temas con Material Design 3, incluyendo previsualizaciones interactivas.
